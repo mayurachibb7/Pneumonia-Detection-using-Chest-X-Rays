@@ -1,2 +1,1 @@
-# Pneumonia-Detection-using-Chest-X-Rays
-Pneumonia Detection using Chest X-Rays
+In this project, we will build a Convolutional Neural Network  model which correctly classifies whether a chest X-ray image is infected with pneumonia or not. The data for this project can be downloaded from this link  https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia. The dataset contains normal and  infected chest X-ray images.
